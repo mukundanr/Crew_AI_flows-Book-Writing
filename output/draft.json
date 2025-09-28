@@ -1,0 +1,62 @@
+{
+  "topic": "5 Chunking Strategies For RAG",
+  "tweets": [
+    {
+      "content": "5 Chunking Strategies For RAG",
+      "is_hook": true,
+      "media_urls": []
+    },
+    {
+      "content": "Why chunking is essential in RAG? \ud83d\udcda It helps manage large documents by splitting them into pieces suited for embedding model inputs. #AI #DataScience",
+      "is_hook": false,
+      "media_urls": [
+        "https://substackcdn.com/image/fetch/$s_!DpHM!,w_1456,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6878b8fa-5e74-45a1-9a89-5aab92889126_2366x990.gif"
+      ]
+    },
+    {
+      "content": "1\ufe0f\u20e3 Fixed-size Chunking: Straightforward splitting into parts by characters or words, yet it risks breaking semantic flow. Simplicity at a cost. #MachineLearning",
+      "is_hook": false,
+      "media_urls": [
+        "https://substackcdn.com/image/fetch/$s_!RG5y!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F98c422a0-f0e2-457c-a256-4476a56a601f_943x232.png"
+      ]
+    },
+    {
+      "content": "2\ufe0f\u20e3 Semantic Chunking: Uses embedding and cosine similarity for coherent sections. Preserves meaning, but needs computational power. #NLP",
+      "is_hook": false,
+      "media_urls": [
+        "https://substackcdn.com/image/fetch/$s_!tmOD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa6ad83a6-2879-4c77-9e49-393f16577aef_1066x288.gif"
+      ]
+    },
+    {
+      "content": "3\ufe0f\u20e3 Recursive Chunking: Starts with paragraphs, refines by size. Maintains language flow, though more complex to implement. #AI #Research",
+      "is_hook": false,
+      "media_urls": [
+        "https://substackcdn.com/image/fetch/$s_!WRuN!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4009caa-34fc-48d6-8102-3d0f6f2c1386_1066x316.gif"
+      ]
+    },
+    {
+      "content": "4\ufe0f\u20e3 Document Structure-based Chunking: Leverages headings for boundaries. Assumes clear structure; adaptable lengths. #DataManagement",
+      "is_hook": false,
+      "media_urls": [
+        "https://substackcdn.com/image/fetch/$s_!NtgT!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe8febecd-ee68-42ff-ab06-41a0a3a43cd3_1102x306.gif"
+      ]
+    },
+    {
+      "content": "5\ufe0f\u20e3 LLM-based Chunking: Leverages language models for high semantic fidelity. Demands resources, but drives precision. #AI #Innovation",
+      "is_hook": false,
+      "media_urls": [
+        "https://substackcdn.com/image/fetch/$s_!jVmL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d1b6d60-8956-4030-8525-d899ee61a9d5_1140x198.gif"
+      ]
+    },
+    {
+      "content": "Choosing a strategy? Weigh simplicity against semantic needs and computational limits. Test for your use case! #DevLife",
+      "is_hook": false,
+      "media_urls": []
+    },
+    {
+      "content": "Explore more about chunking strategies in AI applications and enhance your RAG efficiency! \ud83d\ude80 #AICommunity #TechInsights",
+      "is_hook": false,
+      "media_urls": []
+    }
+  ]
+}
